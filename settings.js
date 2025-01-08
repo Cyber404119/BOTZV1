@@ -8,8 +8,6 @@ require("./all/module.js")
 const { color } = require('./all/function')
 const { version } = require("./package.json")
 //========== Setting Owner ==========//
-global.owner = "62xxx"
-global.owner2 = "62xxx"
 global.namaowner = "𝑰𝒄𝒉𝒊𝒈𝒐𝒁𝑮𝒁👑"
 global.botname = "𝐙𝐀𝐍𝐆𝐄𝐓𝐒𝐔"
 //======== Setting Bot & Link ========//
